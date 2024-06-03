@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 
 .env
+
+
+# Ignorar el archivo vite.config.ts
+vite.config.ts
